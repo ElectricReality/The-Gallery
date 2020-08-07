@@ -1,5 +1,5 @@
 # The-Gallery
-A place to see geometric art made by ElectricReality
+A place to see geometric art made by ElectricReality. Feel free to use it as your phone wallpaper.
 
 <img src="https://raw.githubusercontent.com/ElectricReality/The-Gallery/master/Rising%20Triangles.png" width="23%"></img> 
 <img src="https://raw.githubusercontent.com/ElectricReality/The-Gallery/master/Barcode.png" width="23%"></img> 
